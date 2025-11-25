@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project develops **ZAP**, a zero-shot adversarial prompting benchmark designed to evaluate the jailbreak vulnerability of **multimodal large language models (MLLMs)**. We curate harmful-context images from **SPA-VL** and **BeaverTails-V**, organize them into high-risk categories (e.g., Illegal Activities, Security Threats, False Information), and pair them with handcrafted prompt templates to test whether models can be coerced into producing unsafe outputs **without any fine-tuning**. We evaluate several state-of-the-art MLLMs to measure how visual context and prompt structure influence safety failures. 
+This project develops **ZAP**, a zero-shot adversarial prompting benchmark designed to evaluate the jailbreak vulnerability of **multimodal large language models (MLLMs)**. We curate harmful-context images from **SPA-VL** and **BeaverTails-V**, organize them into high-risk categories (e.g., Illegal Activities, Security Threats, False Information, Environmental Damage), and pair them with handcrafted prompt templates to test whether models can be coerced into producing unsafe outputs **without any fine-tuning**. We evaluate several state-of-the-art MLLMs to measure how visual context and prompt structure influence safety failures. 
 
 ### **Datasets Used**
 
