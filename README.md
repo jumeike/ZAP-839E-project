@@ -42,6 +42,7 @@ dataset/                 # Extracted category-specific image folders
 scripts/              # Filtering and prompt-generation scripts
 figures/              # Distribution plots and analysis figures
 prompt_template/           # Prompt templates for all harm categories
+responses/            # LLM responses to prompt injections from different categories
 README.md             # Project documentation
 ```
 
